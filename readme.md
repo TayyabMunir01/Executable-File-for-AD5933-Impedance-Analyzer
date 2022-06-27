@@ -63,7 +63,7 @@ The AD5933 is a device from Analog Devices which can perform impedance spectrosc
 
 ![Software Overview](ad5933software1.PNG)
 
-### **Steps to do Impedance spectroscopy**
+### **Steps to do Impedance spectroscopy:**
 1. Write the port on which arduino is connected in selecte comport textbox.
 2. Set the sweep parameters.
 3. even if the voltage is set on say 2.0v p-p(and you want to do measurement with that voltage) click again on the button to set it.
